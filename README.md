@@ -1,24 +1,8 @@
-# todosvue
+# Todo List Vue
 
-## Project setup
-```
-npm install
-```
+### Add Todo in form
+![image1](./image1.PNG)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Todo is added to the list
+![image2](./image2.PNG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
